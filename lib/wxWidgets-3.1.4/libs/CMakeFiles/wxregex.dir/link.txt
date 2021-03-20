@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc ../../libwxregexu-3.1.a CMakeFiles/wxregex.dir/__/src/regex/regcomp.c.o CMakeFiles/wxregex.dir/__/src/regex/regexec.c.o CMakeFiles/wxregex.dir/__/src/regex/regerror.c.o CMakeFiles/wxregex.dir/__/src/regex/regfree.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib ../../libwxregexu-3.1.a
